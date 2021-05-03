@@ -23,7 +23,7 @@ body {
 }
 
 p:first-child {
-  margin: 15px auto;
+  margin: 15px auto 50px;
 }
 
 #survey-form {
