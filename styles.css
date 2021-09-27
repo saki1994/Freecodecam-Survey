@@ -22,8 +22,8 @@ body {
   font-family: 'Libre Baskerville', serif;
 }
 
-p:first-child {
-  margin: 15px auto 50px;
+#description {
+  margin-bottom:50px;
 }
 
 #survey-form {
